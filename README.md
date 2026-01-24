@@ -1,33 +1,34 @@
 # 👋 Hi, I'm Jaffar Jned
 
-🎓 I'm a 2nd-year B.Tech IT student at Sharda University  
-🔐 Cybersecurity enthusiast | 📽️ Tech Content Creator | 🧠 Lifelong Learner  
-🌐 Based in Greater Noida, India
+🎓 I'm a B.Tech IT student at Sharda University  
+🔐 Cybersecurity enthusiast | 🧠 Lifelong Learner  
+🌐 Based in Greater Noida, India currently
 
 ## 💻 About Me
-I'm passionate about cybersecurity, ethical hacking, and penetration testing.  
-Currently pursuing the **Google Cybersecurity Certificate** and constantly exploring new tools and techniques in digital security.
+’m passionate about cybersecurity and penetration testing, with a strong interest in understanding how systems work and how to secure them.
 
-On my **YouTube channel**, I simplify complex tech topics into easy-to-understand videos in Arabic & English.
+I focus on improving my knowledge through hands-on practical work alongside theory, because security only makes sense when you test it in real environments.
+I enjoy learning continuously, solving problems, and fixing things by breaking them down logically.
 
 ## 🛠️ Skills
 - Python for Security
 - Linux & Bash
-- Network Security
-- Penetration Testing (Beginner)
-- Social Engineering Awareness
+- Network Security basics
+- Social Engineering Awarenes
 
 ## 🎬 My Projects
 - ✅ Real-Time Face Detection (Python + OpenCV)
 - ✅ Password Strength Checker
 - ✅ Port Scanner & Vulnerability Scanner
-- 📺 Cybersecurity Video Series (YouTube)
+  
 
 ## 📚 Certifications
 - Google Cybersecurity Certificate
 - [Other Security Certificates]
 
+⚡ Personal Note
+ - I believe cybersecurity is about curiosity, discipline, and continuous learning, not shortcuts.
+
 ## 📡 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jaffar-jned-934a382bb)
-- 📺 [YouTube Channel](https://-youtube-link-here)
 - 📬 Email: jaffarjned12@gmail.com
